@@ -44,3 +44,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 We extend our gratitude to the open-source community and CodeClause for their valuable resources and inspiration.
+
